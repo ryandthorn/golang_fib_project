@@ -13,3 +13,7 @@
 
 - I should be able to launch the web UI by running “npm start”. I should then be able to type in
   my number of digits, hit a submit (or similar) button and see the results from the API service
+
+## Issues
+
+- I spent far too much time trying to get the proxy set up, so I decided to implement the client and server separately. The next step would be to find a way to connect them, but I'm unfortunately out of time.
